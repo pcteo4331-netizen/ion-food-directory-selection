@@ -1,0 +1,10 @@
+{
+  "name": "ion-orchard-dine-directory",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Doraemon-themed food directory for ION Orchard, Singapore",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site — no build step required'"
+  }
+}
