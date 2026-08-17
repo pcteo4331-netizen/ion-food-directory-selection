@@ -1,3 +1,4 @@
+[README.md](https://github.com/user-attachments/files/31133409/README.md)
 # ION Orchard Dine Directory — Doraemon Edition
 
 A single-page, Doraemon-themed food directory for ION Orchard (Singapore), with cuisine + price filters, sample Google-style ratings, Google Maps links, one-tap reservation calling, and two "4D Pocket" randomiser buttons for picking a restaurant (or cuisine) at random.
